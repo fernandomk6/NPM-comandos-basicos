@@ -1,3 +1,3 @@
-# Estudo sobre documentação oficial NPM
+# Estudo sobre documentação oficial NPM CLI
 
 
