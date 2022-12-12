@@ -9,5 +9,13 @@
     "iniciar-lite": "lite-server"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nodemon": ">1.15.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
