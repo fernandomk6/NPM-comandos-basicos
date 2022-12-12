@@ -1,4 +1,6 @@
-# Resumo sobre a documentação oficial do NPM
+# NPM: Principais comandos
+
+Lista dos principais comandos do NPM.
 
 [Documentação Oficial](https://docs.npmjs.com/)
 
